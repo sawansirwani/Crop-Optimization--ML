@@ -17,7 +17,7 @@ Model Training:
 
 ## Two machine learning models were explored:
 Decision Tree Classifier
-
+LSTM (Long short term memory )
 Random Forest Classifier (used for final analysis)
 
 ## Model Evaluation:
